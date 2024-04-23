@@ -1,9 +1,11 @@
-import Image from "next/image";
 import TopHeader from "./TopHeader";
-
+import HeroSection from "./HeroSection";
 
 export default function Home() {
   return (
-    <TopHeader></TopHeader>
+    <div>
+      <TopHeader></TopHeader>
+      <HeroSection></HeroSection>
+    </div>
   );
 }

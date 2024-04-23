@@ -1,3 +1,5 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faHouse } from '@awesome.me/kit-d594b55eb6/icons/classic/solid';

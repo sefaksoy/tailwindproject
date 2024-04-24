@@ -165,7 +165,7 @@ export default function MoviesSection() {
                     <div className='flex items-center group basis-3/4 md:basis-1/2 '>
                         {/* News Image Container */}
                         <div className='basis-1/3 h-full'>
-                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/new1.jpg" alt="" className='h-full w-full object-cover'/>
+                            <img src="https://i.hizliresim.com/5bq5czp.jpg" alt="" className='h-full w-full object-cover'/>
                         </div>
                         {/* Item Detail */}
                         <div className='pl-8 basis-2/3 text-white group-hover:text-orange-300 group-hover:cursor-pointer duration-500'>
@@ -177,7 +177,7 @@ export default function MoviesSection() {
                     <div className='flex items-center group basis-3/4 md:basis-1/2 '>
                         {/* News Image Container */}
                         <div className='basis-1/3 h-full'>
-                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/new1.jpg" alt="" className='h-full w-full object-cover'/>
+                            <img src="https://i.hizliresim.com/ce81tqc.jpg" alt="" className='h-full w-full object-cover'/>
                         </div>
                         {/* Item Detail */}
                         <div className='pl-8 basis-2/3 text-white group-hover:text-orange-300 group-hover:cursor-pointer duration-500'>
@@ -189,7 +189,7 @@ export default function MoviesSection() {
                     <div className='flex items-center group basis-3/4 md:basis-1/2 '>
                         {/* News Image Container */}
                         <div className='basis-1/3 h-full'>
-                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/new1.jpg" alt="" className='h-full w-full object-cover'/>
+                            <img src="https://i.hizliresim.com/aolwn15.jpg" alt="" className='h-full w-full object-cover'/>
                         </div>
                         {/* Item Detail */}
                         <div className='pl-8 basis-2/3 text-white group-hover:text-orange-300 group-hover:cursor-pointer duration-500'>
@@ -201,7 +201,7 @@ export default function MoviesSection() {
                     <div className='flex items-center group basis-3/4 md:basis-1/2 md:hidden lg:flex'>
                         {/* News Image Container */}
                         <div className='basis-1/3 h-full'>
-                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/new1.jpg" alt="" className='h-full w-full object-cover'/>
+                            <img src="https://i.hizliresim.com/khvmm59.jpg" alt="" className='h-full w-full object-cover'/>
                         </div>
                         {/* Item Detail */}
                         <div className='pl-8 basis-2/3 text-white group-hover:text-orange-300 group-hover:cursor-pointer duration-500'>

@@ -6,12 +6,12 @@ import PostSection from "./PostSection";
 
 export default function Home() {
   return (
-    <div>
+    <>
       <TopHeader></TopHeader>
       <HeroSection></HeroSection>
       <MoviesSection></MoviesSection>
       <MiddleSection></MiddleSection>
       <PostSection></PostSection>
-    </div>
+    </>
   );
 }

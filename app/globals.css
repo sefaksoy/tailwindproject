@@ -8,3 +8,7 @@
         @apply uppercase;
     }
 }
+
+h2{
+    @apply text-2xl;
+}

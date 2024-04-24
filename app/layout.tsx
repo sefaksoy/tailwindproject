@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Dark Knight",
-  description: "DarkKnight TAILWIND Test Page",
+  title: "TWPR",
+  description: "TailWind Test Project",
 };
 
 export default function RootLayout({

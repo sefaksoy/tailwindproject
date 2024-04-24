@@ -6,7 +6,7 @@ import { faPlay } from '@fortawesome/free-solid-svg-icons/faPlay';
 export default function HeroSection() {
   return (
     // Hero Section
-    <section className='h-64 md:h-96 lg:h-128 group relative'>
+    <section className='h-96 lg:h-128 group relative'>
         {/* Hero Image */}
         <img src="https://i.hizliresim.com/j2l890l.jpg" alt="" className='w-full h-full object-cover' />
 
@@ -21,7 +21,7 @@ export default function HeroSection() {
                     <h1 className='text-4xl xl:text-6xl text-white group-hover:mb-1 duration-500'>
                         The Dark Knight
                     </h1>
-                    <p className='text-zinc-400 group-hover:mb-1 duration-500 text-sm lg:text-base w-3/4 lg:w-2/3'>Lorem ipsum dolor sit amet consectetur adipisi   cing elit. Culpa dolore facilis eos explicabo? Voluptatum obcaecati id doloribus nobis odit esse?</p>
+                    <p className='text-zinc-400 group-hover:mb-1 duration-500 text-sm lg:text-base w-3/4 lg:w-2/3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa dolore facilis eos explicabo? Voluptatum obcaecati id doloribus nobis odit esse?</p>
                         {/* Detail Container */}
                         <div className='flex space-x-8 opacity-0 group-hover:opacity-100 group-hover:mb-10 lg:group-hover:mb-20 duration-1000'>
                             {/* Watch */}

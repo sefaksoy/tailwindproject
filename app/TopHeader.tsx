@@ -11,7 +11,7 @@ export default function TopHeader() {
       {/* Header Container */}
       <div className="container flex items-center justify-between space-x-8 lg:space-x-16">
       {/* Logo */}
-      <a href="#" className='pl-4 md:pl-0 text-2xl lg:text-3xl font-bold text-transparent bg-gradient-to-r bg-clip-text from-red-500 to-white'>DARK KNIGHT</a>
+      <a href="#" className='pl-4 md:pl-0 text-2xl lg:text-3xl font-bold text-transparent bg-gradient-to-r bg-clip-text from-red-500 to-white'>TWPR</a>
       {/* Mobile Menu */}
       {
         <div className='block md:hidden pr-4'>
@@ -37,9 +37,9 @@ export default function TopHeader() {
           {/* Search Area */}
           <form action="#">
             <div className='border-r px-4 mx-4 py-1 border-rose-600'>
-                  <input type="text" className='opacity-0 hover:opacity-100 bg-transparent border-b border-rose-600 focus:outline-none w-24 lg:w-44 transition duration-500'/>
+                  <input type="text" className='opacity-50 hover:opacity-100 bg-transparent border-b border-rose-600 focus:outline-none w-24 lg:w-44 transition duration-500'/>
                   <button className='-ml-4 group-hover:ml-0 transition duration-500'>
-                    <FontAwesomeIcon icon={faSearch} className='group-hover:text-gega-red transition duration-500' width={20} />
+                  <FontAwesomeIcon icon={faSearch} className='group-hover:text-rose-600 transition duration-500' width={20} />
                     </button>
 
             </div>

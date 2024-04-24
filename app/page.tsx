@@ -2,6 +2,7 @@ import TopHeader from "./TopHeader";
 import HeroSection from "./HeroSection";
 import MoviesSection from "./MoviesSection";
 import MiddleSection from "./MiddleSection";
+import PostSection from "./PostSection";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <HeroSection></HeroSection>
       <MoviesSection></MoviesSection>
       <MiddleSection></MiddleSection>
+      <PostSection></PostSection>
     </div>
   );
 }

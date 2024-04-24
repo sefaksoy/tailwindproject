@@ -39,7 +39,7 @@ export default function MoviesSection() {
                                         {/* Image 2 */}
                                         <div className="group relative overflow-hidden basis-1/3 md:basis-1/4 lg:basis-1/3">
                             {/* Image */}
-                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/mv1.jpg" alt="" className='group-hover:scale-110 group-hover:opacity-50 duration-500' />
+                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/mv2.jpg" alt="" className='group-hover:scale-110 group-hover:opacity-50 duration-500' />
                             {/* Image Detail Container*/}
                             <div className="absolute px-6 bottom-8">
                                 <h3 className='text-white group-hover:text-orange-600 group-hover:mb-2 duration-500'>Oblivion</h3>
@@ -54,7 +54,7 @@ export default function MoviesSection() {
                                         {/* Image 3 */}
                                         <div className="group relative overflow-hidden basis-1/3 md:basis-1/4 lg:basis-1/3">
                             {/* Image */}
-                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/mv1.jpg" alt="" className='group-hover:scale-110 group-hover:opacity-50 duration-500' />
+                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/mv3.jpg" alt="" className='group-hover:scale-110 group-hover:opacity-50 duration-500' />
                             {/* Image Detail Container*/}
                             <div className="absolute px-6 bottom-8">
                                 <h3 className='text-white group-hover:text-orange-600 group-hover:mb-2 duration-500'>Oblivion</h3>
@@ -69,7 +69,7 @@ export default function MoviesSection() {
                                         {/* Image 4 */}
                                         <div className="group relative overflow-hidden basis-1/3 md:basis-1/4 lg:basis-1/3">
                             {/* Image */}
-                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/mv1.jpg" alt="" className='group-hover:scale-110 group-hover:opacity-50 duration-500' />
+                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/mv4.jpg" alt="" className='group-hover:scale-110 group-hover:opacity-50 duration-500' />
                             {/* Image Detail Container*/}
                             <div className="absolute px-6 bottom-8">
                                 <h3 className='text-white group-hover:text-orange-600 group-hover:mb-2 duration-500'>Oblivion</h3>
@@ -84,7 +84,7 @@ export default function MoviesSection() {
                                         {/* Image 5 */}
                                         <div className="group relative overflow-hidden basis-1/3 md:basis-1/4 lg:basis-1/3">
                             {/* Image */}
-                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/mv1.jpg" alt="" className='group-hover:scale-110 group-hover:opacity-50 duration-500' />
+                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/mv5.jpg" alt="" className='group-hover:scale-110 group-hover:opacity-50 duration-500' />
                             {/* Image Detail Container*/}
                             <div className="absolute px-6 bottom-8">
                                 <h3 className='text-white group-hover:text-orange-600 group-hover:mb-2 duration-500'>Oblivion</h3>
@@ -99,7 +99,7 @@ export default function MoviesSection() {
                                         {/* Image 6 */}
                                         <div className="group relative overflow-hidden basis-1/3 md:basis-1/4 lg:basis-1/3">
                             {/* Image */}
-                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/mv1.jpg" alt="" className='group-hover:scale-110 group-hover:opacity-50 duration-500' />
+                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/mv6.jpg" alt="" className='group-hover:scale-110 group-hover:opacity-50 duration-500' />
                             {/* Image Detail Container*/}
                             <div className="absolute px-6 bottom-8">
                                 <h3 className='text-white group-hover:text-orange-600 group-hover:mb-2 duration-500'>Oblivion</h3>
@@ -114,7 +114,7 @@ export default function MoviesSection() {
                                                             {/* Image 7 */}
                                                             <div className="group relative overflow-hidden basis-1/3 md:basis-1/4 lg:basis-1/3 hidden md:block lg:hidden">
                             {/* Image */}
-                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/mv1.jpg" alt="" className='group-hover:scale-110 group-hover:opacity-50 duration-500' />
+                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/mv4.jpg" alt="" className='group-hover:scale-110 group-hover:opacity-50 duration-500' />
                             {/* Image Detail Container*/}
                             <div className="absolute px-6 bottom-8">
                                 <h3 className='text-white group-hover:text-orange-600 group-hover:mb-2 duration-500'>Oblivion</h3>

@@ -3,6 +3,7 @@ import HeroSection from "./HeroSection";
 import MoviesSection from "./MoviesSection";
 import MiddleSection from "./MiddleSection";
 import PostSection from "./PostSection";
+import FooterPage from "./FooterPage";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <MoviesSection></MoviesSection>
       <MiddleSection></MiddleSection>
       <PostSection></PostSection>
+      <FooterPage></FooterPage>
     </>
   );
 }

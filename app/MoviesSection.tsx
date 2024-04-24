@@ -114,16 +114,65 @@ export default function MoviesSection() {
                 </div>
             </div>
             {/* Right Content */}
-            <div className="basis-1/3 bg-blue-500 ">
+            <div className="basis-1/3  ">
                 {/* Titles */}
                 <h2 className='text-white mb-8'>Hot News</h2>
                 {/* News Container */}
-                <div className='flex flex-col h-full justify-center space-y-4'>
+                <div className='flex flex-col h-full justify-between pb-16'>
                     {/* Item */}
                     <div className='flex items-center group'>
                         {/* News Image Container */}
                         <div className='basis-1/3 h-full'>
                             <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/new1.jpg" alt="" className='h-full w-full object-cover'    />
+                        </div>
+                        {/* Item Detail */}
+                        <div className='pl-8 basis-2/3 text-white group-hover:text-orange-300 group-hover:cursor-pointer duration-500'>
+                            <p className='text-sm'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis, exercitationem.</p>
+                            <p className='text-xs tracking-tighter mt-2 font-bold'>ON NOW 01 01 2024</p>
+                        </div>
+                    </div>
+                    <div className='flex items-center group'>
+                        {/* News Image Container */}
+                        <div className='basis-1/3 h-full'>
+                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/new1.jpg" alt="" className='h-full w-full object-cover'    />
+                        </div>
+                        {/* Item Detail */}
+                        <div className='pl-8 basis-2/3 text-white group-hover:text-orange-300 group-hover:cursor-pointer duration-500'>
+                            <p className='text-sm'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis, exercitationem.</p>
+                            <p className='text-xs tracking-tighter mt-2 font-bold'>ON NOW 01 01 2024</p>
+                        </div>
+                    </div>
+                    <div className='flex items-center group'>
+                        {/* News Image Container */}
+                        <div className='basis-1/3 h-full'>
+                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/new1.jpg" alt="" className='h-full w-full object-cover'    />
+                        </div>
+                        {/* Item Detail */}
+                        <div className='pl-8 basis-2/3 text-white group-hover:text-orange-300 group-hover:cursor-pointer duration-500'>
+                            <p className='text-sm'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis, exercitationem.</p>
+                            <p className='text-xs tracking-tighter mt-2 font-bold'>ON NOW 01 01 2024</p>
+                        </div>
+                    </div>
+                    <div className='flex items-center group'>
+                        {/* News Image Container */}
+                        <div className='basis-1/3 h-full'>
+                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/new1.jpg" alt="" className='h-full w-full object-cover'    />
+                        </div>
+                        {/* Item Detail */}
+                        <div className='pl-8 basis-2/3 text-white group-hover:text-orange-300 group-hover:cursor-pointer duration-500'>
+                            <p className='text-sm'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis, exercitationem.</p>
+                            <p className='text-xs tracking-tighter mt-2 font-bold'>ON NOW 01 01 2024</p>
+                        </div>
+                    </div>
+                    <div className='flex items-center group'>
+                        {/* News Image Container */}
+                        <div className='basis-1/3 h-full'>
+                            <img src="https://raw.githubusercontent.com/ArinSoftware/gega-project/main/public/images/new1.jpg" alt="" className='h-full w-full object-cover'    />
+                        </div>
+                        {/* Item Detail */}
+                        <div className='pl-8 basis-2/3 text-white group-hover:text-orange-300 group-hover:cursor-pointer duration-500'>
+                            <p className='text-sm'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis, exercitationem.</p>
+                            <p className='text-xs tracking-tighter mt-2 font-bold'>ON NOW 01 01 2024</p>
                         </div>
                     </div>
                 </div>

@@ -1,6 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faMicrochip, faSearch, faTableList } from "@fortawesome/free-solid-svg-icons";
+import { faArchive, faArrowRight, faMicrochip, faSearch, faSolarPanel, faTableList } from "@fortawesome/free-solid-svg-icons";
+import { faPlay } from '@fortawesome/free-solid-svg-icons/faPlay';
 
 export default function TopHeader() {
   return (

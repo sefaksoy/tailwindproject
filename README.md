@@ -1,1 +1,1 @@
-Dark Knight TailwindCSS projesi.
+TailWind CSS alıştırma projesi.
